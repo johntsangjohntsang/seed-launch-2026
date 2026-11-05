@@ -1,0 +1,1429 @@
+{
+  "groups": [
+    {
+      "id": "scene",
+      "title": "現場與開場"
+    },
+    {
+      "id": "portrait",
+      "title": "嘉賓肖像"
+    },
+    {
+      "id": "groups",
+      "title": "各團體合照"
+    },
+    {
+      "id": "audience",
+      "title": "觀眾與交流"
+    },
+    {
+      "id": "presentation",
+      "title": "嘉賓致謝與委任"
+    },
+    {
+      "id": "launch",
+      "title": "光影心形燈啟動"
+    },
+    {
+      "id": "talks",
+      "title": "致辭與分享"
+    },
+    {
+      "id": "advisors",
+      "title": "顧問團與嘉賓合照"
+    },
+    {
+      "id": "full",
+      "title": "全場合照"
+    }
+  ],
+  "photos": [
+    {
+      "file": "JOHN6909.jpg",
+      "id": "JOHN6909",
+      "group": "scene",
+      "width": 8147,
+      "height": 4713,
+      "bytes": 16515379,
+      "sha256": "9ef24771c4df5ae665a477616d381d0242905f6331883970d494688c5c18478d",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6909.jpg"
+    },
+    {
+      "file": "JOHN6917.jpg",
+      "id": "JOHN6917",
+      "group": "scene",
+      "width": 8256,
+      "height": 5504,
+      "bytes": 21531913,
+      "sha256": "af6304e2bfd3d423f6e822e13601c733ce6dab5cb9bc374572246cd814881342",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6917.jpg"
+    },
+    {
+      "file": "JOHN6920.jpg",
+      "id": "JOHN6920",
+      "group": "scene",
+      "width": 8462,
+      "height": 3275,
+      "bytes": 13895475,
+      "sha256": "3c940a7b59f4caa0bc7285a0aebeb792b98bb82a483530df553471533b5f8030",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6920.jpg"
+    },
+    {
+      "file": "JOHN6924.jpg",
+      "id": "JOHN6924",
+      "group": "scene",
+      "width": 8297,
+      "height": 5532,
+      "bytes": 36630533,
+      "sha256": "5a2b54964520c20c7248e4953510048de5226494118c1d4d3386fa9e81ce2a31",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6924.jpg"
+    },
+    {
+      "file": "JOHN6936.jpg",
+      "id": "JOHN6936",
+      "group": "scene",
+      "width": 8463,
+      "height": 5642,
+      "bytes": 38139479,
+      "sha256": "8c454961f6d0156d229311212f39b207a52d5c770068e03bf0bbf4bcee5e9ae3",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6936.jpg"
+    },
+    {
+      "file": "JOHN6938.jpg",
+      "id": "JOHN6938",
+      "group": "scene",
+      "width": 7888,
+      "height": 5259,
+      "bytes": 20429268,
+      "sha256": "583d1e08cd193e4d1b9c6bb1852060a2e520bfe7a28abfcaace2c46203dde285",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6938.jpg"
+    },
+    {
+      "file": "JOHN6939.jpg",
+      "id": "JOHN6939",
+      "group": "scene",
+      "width": 7639,
+      "height": 4352,
+      "bytes": 18035279,
+      "sha256": "883a1e495a3f584f6dac6b5aa366669fc8eeae432f3067b122872e965666d6b7",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6939.jpg"
+    },
+    {
+      "file": "JOHN6940.jpg",
+      "id": "JOHN6940",
+      "group": "scene",
+      "width": 7584,
+      "height": 4187,
+      "bytes": 34428591,
+      "sha256": "895dd73a0f1a71b538c5d286507843b6e1257a26cca6c0d2ca3f2531253c52b4",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6940.jpg"
+    },
+    {
+      "file": "JOHN6941.jpg",
+      "id": "JOHN6941",
+      "group": "scene",
+      "width": 7337,
+      "height": 4703,
+      "bytes": 18368214,
+      "sha256": "cf58f3be06adc20ecaf5c88b8669fe970eebc5f674865a9aaf00bfa3ed1afb4c",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6941.jpg"
+    },
+    {
+      "file": "JOHN6945.jpg",
+      "id": "JOHN6945",
+      "group": "scene",
+      "width": 7917,
+      "height": 4795,
+      "bytes": 32899883,
+      "sha256": "2e76141d109f535d2876479ab38a6519b4545c645ea695025bd39cc18ee787b5",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6945.jpg"
+    },
+    {
+      "file": "JOHN6952.jpg",
+      "id": "JOHN6952",
+      "group": "scene",
+      "width": 8428,
+      "height": 5618,
+      "bytes": 22403509,
+      "sha256": "94e73aa7487ce70ac611c9203d9fee25e36cef9707edf88d3433909518ffb765",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6952.jpg"
+    },
+    {
+      "file": "JOHN6957.jpg",
+      "id": "JOHN6957",
+      "group": "scene",
+      "width": 8575,
+      "height": 5634,
+      "bytes": 23579608,
+      "sha256": "f074c79ec9f34bc54e26cab8351c89e4d02526d7457574a3e35a69d27858e338",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6957.jpg"
+    },
+    {
+      "file": "JOHN6961.jpg",
+      "id": "JOHN6961",
+      "group": "scene",
+      "width": 8443,
+      "height": 5270,
+      "bytes": 38775731,
+      "sha256": "7ee53bf8bce33b93fafa75f7c3ba2f3e6ca5d8c3ac795765cecf015d162b069e",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6961.jpg"
+    },
+    {
+      "file": "JOHN6966.jpg",
+      "id": "JOHN6966",
+      "group": "scene",
+      "width": 7941,
+      "height": 5294,
+      "bytes": 20961780,
+      "sha256": "26fbafbf229a312023573b572d0dd5179b2d6741c1e36245c77535e0a720224a",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6966.jpg"
+    },
+    {
+      "file": "JOHN6967.jpg",
+      "id": "JOHN6967",
+      "group": "scene",
+      "width": 8237,
+      "height": 5491,
+      "bytes": 26196701,
+      "sha256": "e34fbee9dd939d70195c490a4047480ec639a9c15339a9b842009102865521e6",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6967.jpg"
+    },
+    {
+      "file": "JOHN6975.jpg",
+      "id": "JOHN6975",
+      "group": "portrait",
+      "width": 8450,
+      "height": 5634,
+      "bytes": 34909779,
+      "sha256": "bba6ed0f92b40ee878edbe155e8d467c9671bdd2194c667d160bdb2fa3a8656c",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6975.jpg"
+    },
+    {
+      "file": "JOHN6976.jpg",
+      "id": "JOHN6976",
+      "group": "portrait",
+      "width": 8376,
+      "height": 5584,
+      "bytes": 31745176,
+      "sha256": "19620e64d35d08557261ac426485207657aa17f70c4c783c586024cfeae3ce28",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6976.jpg"
+    },
+    {
+      "file": "JOHN6977.jpg",
+      "id": "JOHN6977",
+      "group": "portrait",
+      "width": 8527,
+      "height": 5684,
+      "bytes": 37214551,
+      "sha256": "8d368ae05251b43b1c7cec779c265359609da14a93f5d0f6e15346c3f0f366e0",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6977.jpg"
+    },
+    {
+      "file": "JOHN6978.jpg",
+      "id": "JOHN6978",
+      "group": "portrait",
+      "width": 8424,
+      "height": 5616,
+      "bytes": 24221228,
+      "sha256": "0697a1b5492047d305fc8ba1c5f13884425cbfd6fa2093e79491065cc5879646",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6978.jpg"
+    },
+    {
+      "file": "JOHN6982.jpg",
+      "id": "JOHN6982",
+      "group": "portrait",
+      "width": 8300,
+      "height": 5533,
+      "bytes": 31995508,
+      "sha256": "9ace3cf0dad8ba186a47d9ab470563f78675600a5ac1939f3a4ef9644235eb18",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6982.jpg"
+    },
+    {
+      "file": "JOHN6986.jpg",
+      "id": "JOHN6986",
+      "group": "portrait",
+      "width": 8252,
+      "height": 5501,
+      "bytes": 28552584,
+      "sha256": "6484f35976a6f01ec3aa726a2b48448277142208b6ae75554e6a0affc5c814d3",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6986.jpg"
+    },
+    {
+      "file": "JOHN6987.jpg",
+      "id": "JOHN6987",
+      "group": "portrait",
+      "width": 8130,
+      "height": 5420,
+      "bytes": 21657873,
+      "sha256": "c95dfb83363c2caf165a274411d77c2c1013f61a99b6b7364243032509932c82",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6987.jpg"
+    },
+    {
+      "file": "JOHN6988.jpg",
+      "id": "JOHN6988",
+      "group": "portrait",
+      "width": 8077,
+      "height": 5385,
+      "bytes": 24683414,
+      "sha256": "861625c54e8ff2e52bb2af7f12883a90a9c2d9ee3131c3be5a1641b6c0e4b3d5",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6988.jpg"
+    },
+    {
+      "file": "JOHN6990.jpg",
+      "id": "JOHN6990",
+      "group": "portrait",
+      "width": 8118,
+      "height": 5412,
+      "bytes": 21653015,
+      "sha256": "4fd59933f4c71642855ea181333a9699384c1763ddc0eb453a1dcbb2ef306cdb",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6990.jpg"
+    },
+    {
+      "file": "JOHN6992.jpg",
+      "id": "JOHN6992",
+      "group": "portrait",
+      "width": 8490,
+      "height": 5660,
+      "bytes": 25395032,
+      "sha256": "9659570d37024010d0174b10f7ce197c8a439eb41bb9042c5d6dbca43de3821f",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6992.jpg"
+    },
+    {
+      "file": "JOHN6994.jpg",
+      "id": "JOHN6994",
+      "group": "portrait",
+      "width": 8263,
+      "height": 5509,
+      "bytes": 23541219,
+      "sha256": "4a144ecb44c97946650cdab5b6714bf349a93d4b5a9852e1babe70db2c3add66",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6994.jpg"
+    },
+    {
+      "file": "JOHN6995.jpg",
+      "id": "JOHN6995",
+      "group": "portrait",
+      "width": 8082,
+      "height": 5388,
+      "bytes": 21276126,
+      "sha256": "cfff5042553d9e02064782f731bd5e220a7c89db8ae6193e2e2acbd60d6c4a65",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6995.jpg"
+    },
+    {
+      "file": "JOHN6996.jpg",
+      "id": "JOHN6996",
+      "group": "groups",
+      "width": 7695,
+      "height": 5267,
+      "bytes": 25641503,
+      "sha256": "fdbffd039dc70db78e330d3ab8e53032e4f8704a42bf28b3a6e27ec6107dff39",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6996.jpg"
+    },
+    {
+      "file": "JOHN6997.jpg",
+      "id": "JOHN6997",
+      "group": "groups",
+      "width": 5676,
+      "height": 5726,
+      "bytes": 20754845,
+      "sha256": "b48a94bbfd22a9b87b2c69cc6649989db874a46fcb9bc77495c5bea13bb4b208",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6997.jpg"
+    },
+    {
+      "file": "JOHN6999.jpg",
+      "id": "JOHN6999",
+      "group": "groups",
+      "width": 8556,
+      "height": 5704,
+      "bytes": 30344960,
+      "sha256": "5a1ae8294bd372a57136e0b6b3f119c80fad16a08a9a04577a82d5cb4384b34f",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN6999.jpg"
+    },
+    {
+      "file": "JOHN7000.jpg",
+      "id": "JOHN7000",
+      "group": "groups",
+      "width": 8066,
+      "height": 5766,
+      "bytes": 27407204,
+      "sha256": "3b639666a56fc4e65a5a461b022c01455aa5e66dabbad47a9e31bf52c1b106fc",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7000.jpg"
+    },
+    {
+      "file": "JOHN7001.jpg",
+      "id": "JOHN7001",
+      "group": "groups",
+      "width": 7200,
+      "height": 5435,
+      "bytes": 23978127,
+      "sha256": "60981c5845a583e2e9dd14ab4ba6660729620a9e97a4e367959ee3c4be92186b",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7001.jpg"
+    },
+    {
+      "file": "JOHN7002.jpg",
+      "id": "JOHN7002",
+      "group": "groups",
+      "width": 7934,
+      "height": 5024,
+      "bytes": 26665823,
+      "sha256": "a30b9e70bd41e9c2ec204ca072ab75b164e3bb65dbfe3e8d6204ef983df76c70",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7002.jpg"
+    },
+    {
+      "file": "JOHN7004.jpg",
+      "id": "JOHN7004",
+      "group": "groups",
+      "width": 7378,
+      "height": 4612,
+      "bytes": 23691269,
+      "sha256": "f053e543878449917f3782d5b42d12d6c4b1c1946885eb205c5c11605a2375b9",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7004.jpg"
+    },
+    {
+      "file": "JOHN7005.jpg",
+      "id": "JOHN7005",
+      "group": "groups",
+      "width": 8298,
+      "height": 5608,
+      "bytes": 30637931,
+      "sha256": "8c98ee708e6d254dd79e4e835259ff2f642fec3807d7f667b267f31eb1ba2edb",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7005.jpg"
+    },
+    {
+      "file": "JOHN7006.jpg",
+      "id": "JOHN7006",
+      "group": "groups",
+      "width": 8412,
+      "height": 5608,
+      "bytes": 24809437,
+      "sha256": "a0bf9093cefe61ba721ebec08bfc5dd2107e643b0c1eae2a300a204e8a96d626",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7006.jpg"
+    },
+    {
+      "file": "JOHN7007.jpg",
+      "id": "JOHN7007",
+      "group": "groups",
+      "width": 8011,
+      "height": 5645,
+      "bytes": 24852431,
+      "sha256": "8ca1fd801b46a88dcf80a7e11d28ef262862a0f3e1400d123ce44add88b61ab5",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7007.jpg"
+    },
+    {
+      "file": "JOHN7008.jpg",
+      "id": "JOHN7008",
+      "group": "groups",
+      "width": 8450,
+      "height": 5634,
+      "bytes": 27070569,
+      "sha256": "5586e9dda84e8929ee1ebda0abcc07bf9c8a7ff64b1abc8617606d90b91aaf60",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7008.jpg"
+    },
+    {
+      "file": "JOHN7009.jpg",
+      "id": "JOHN7009",
+      "group": "groups",
+      "width": 8298,
+      "height": 5532,
+      "bytes": 27194662,
+      "sha256": "4bfa7ecbd479822593aceb5adc7e86e95964a5d80d2a8e76e800b7eb34a4f635",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7009.jpg"
+    },
+    {
+      "file": "JOHN7010.jpg",
+      "id": "JOHN7010",
+      "group": "groups",
+      "width": 7752,
+      "height": 5479,
+      "bytes": 25511390,
+      "sha256": "e152142405277b98d7793eea94a58cc599530ba5f1a636eac898515d048caa43",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7010.jpg"
+    },
+    {
+      "file": "JOHN7011.jpg",
+      "id": "JOHN7011",
+      "group": "groups",
+      "width": 8097,
+      "height": 5690,
+      "bytes": 25102559,
+      "sha256": "ec0e6c571eb2db33d8ca4a5c79f50e6e3ea86fd288dddca0076711dc416aef82",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7011.jpg"
+    },
+    {
+      "file": "JOHN7012.jpg",
+      "id": "JOHN7012",
+      "group": "groups",
+      "width": 8568,
+      "height": 5712,
+      "bytes": 27922044,
+      "sha256": "61413964ae1f9ec4962607e3a4e7c4c174237796999add65f1d2eacb5c6496c6",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7012.jpg"
+    },
+    {
+      "file": "JOHN7013.jpg",
+      "id": "JOHN7013",
+      "group": "groups",
+      "width": 7835,
+      "height": 5765,
+      "bytes": 31842361,
+      "sha256": "f55b675e90d8707874817ad169c6d94264502493ee9fc042c2ceea81e70f94ae",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7013.jpg"
+    },
+    {
+      "file": "JOHN7015.jpg",
+      "id": "JOHN7015",
+      "group": "groups",
+      "width": 8284,
+      "height": 3543,
+      "bytes": 21588682,
+      "sha256": "acedc023917c922b2b4c23df41750ef27ada40662cd46cf3f895291a1f6e70ce",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7015.jpg"
+    },
+    {
+      "file": "JOHN7017.jpg",
+      "id": "JOHN7017",
+      "group": "groups",
+      "width": 8148,
+      "height": 5432,
+      "bytes": 28289843,
+      "sha256": "d9b00daf42763d8e400a091f470f7c0518339a2a96a9162d72ffc8e88bbd99b7",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7017.jpg"
+    },
+    {
+      "file": "JOHN7018.jpg",
+      "id": "JOHN7018",
+      "group": "groups",
+      "width": 8365,
+      "height": 5577,
+      "bytes": 27192069,
+      "sha256": "597fda2816d0b9e805de5c979a75c3f1741231c3898784fe3e8fed542cedb317",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7018.jpg"
+    },
+    {
+      "file": "JOHN7019.jpg",
+      "id": "JOHN7019",
+      "group": "groups",
+      "width": 8587,
+      "height": 5724,
+      "bytes": 31653456,
+      "sha256": "27109136c15494ca62001ef37243b447c8cb2e76a9b18c7d37ae52d5ab5c5aed",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7019.jpg"
+    },
+    {
+      "file": "JOHN7021.jpg",
+      "id": "JOHN7021",
+      "group": "groups",
+      "width": 8206,
+      "height": 5471,
+      "bytes": 30291694,
+      "sha256": "17f0206701bbd2fe7f001ca9d566dcfe117b6289de89ef51c0a206f6762bd867",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7021.jpg"
+    },
+    {
+      "file": "JOHN7022.jpg",
+      "id": "JOHN7022",
+      "group": "groups",
+      "width": 6976,
+      "height": 5578,
+      "bytes": 25382568,
+      "sha256": "917f4cd50b5aae252cf42f03854f577ed4e190c4372452e24c21dff76c6b3806",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7022.jpg"
+    },
+    {
+      "file": "JOHN7023.jpg",
+      "id": "JOHN7023",
+      "group": "groups",
+      "width": 6965,
+      "height": 5434,
+      "bytes": 25566491,
+      "sha256": "6b11ec5d592584f0eb01c8b7668dfec192c6fcb589a00beeee1cafa29a17a77e",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7023.jpg"
+    },
+    {
+      "file": "JOHN7024.jpg",
+      "id": "JOHN7024",
+      "group": "groups",
+      "width": 7062,
+      "height": 5625,
+      "bytes": 25648689,
+      "sha256": "62b86d61e2b777428142d0444a31aa755055e00df13c4494c5b95ddf400feb3e",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7024.jpg"
+    },
+    {
+      "file": "JOHN7026.jpg",
+      "id": "JOHN7026",
+      "group": "groups",
+      "width": 6902,
+      "height": 5477,
+      "bytes": 21342360,
+      "sha256": "16b28d697321bc64879ac3f46665d839f69de9cdad384b16d954c3dd939f776a",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7026.jpg"
+    },
+    {
+      "file": "JOHN7027.jpg",
+      "id": "JOHN7027",
+      "group": "groups",
+      "width": 8444,
+      "height": 5629,
+      "bytes": 35447472,
+      "sha256": "5daf67d0f00dbc6463fb881cfafab6d7d9448113e94171f4ebea4db497526c2a",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7027.jpg"
+    },
+    {
+      "file": "JOHN7028.jpg",
+      "id": "JOHN7028",
+      "group": "groups",
+      "width": 8006,
+      "height": 5337,
+      "bytes": 28837516,
+      "sha256": "885b059e87deb91f3313903e0289e6a3900e7946bd6e1163cc420195a7e86bcd",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7028.jpg"
+    },
+    {
+      "file": "JOHN7030.jpg",
+      "id": "JOHN7030",
+      "group": "groups",
+      "width": 7945,
+      "height": 5296,
+      "bytes": 28964710,
+      "sha256": "24507638849a55dd436a9b9b9c0f6111d9adabf921b8f4e50c4c549403293868",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7030.jpg"
+    },
+    {
+      "file": "JOHN7033.jpg",
+      "id": "JOHN7033",
+      "group": "groups",
+      "width": 8131,
+      "height": 5420,
+      "bytes": 27093654,
+      "sha256": "1f5a94d8c640e1ddb961c7b5a2679a6e077b687b90f5f2f0a071a8dd9fbb6580",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7033.jpg"
+    },
+    {
+      "file": "JOHN7034.jpg",
+      "id": "JOHN7034",
+      "group": "groups",
+      "width": 6447,
+      "height": 5493,
+      "bytes": 21472438,
+      "sha256": "945b3121b5ccbd1720942ab7cd912b1473335204fa23054dbcab792f29a668ed",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7034.jpg"
+    },
+    {
+      "file": "JOHN7036.jpg",
+      "id": "JOHN7036",
+      "group": "groups",
+      "width": 5797,
+      "height": 5335,
+      "bytes": 19004205,
+      "sha256": "347f9b7e77bb5e2dee64640ae0f27eeff10460e04b208117536ed9c5f02cee0b",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7036.jpg"
+    },
+    {
+      "file": "JOHN7037.jpg",
+      "id": "JOHN7037",
+      "group": "groups",
+      "width": 4470,
+      "height": 4604,
+      "bytes": 13509911,
+      "sha256": "571494c067cf0e9622d7b79bf6a14b4441773bf35f137f882b1e4236275c556c",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7037.jpg"
+    },
+    {
+      "file": "JOHN7039.jpg",
+      "id": "JOHN7039",
+      "group": "groups",
+      "width": 8534,
+      "height": 5689,
+      "bytes": 23123483,
+      "sha256": "cd0a88f5e9f645391671c6d8723e4106484b889242a1c9717cd42968855e450f",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7039.jpg"
+    },
+    {
+      "file": "JOHN7042.jpg",
+      "id": "JOHN7042",
+      "group": "groups",
+      "width": 4487,
+      "height": 5391,
+      "bytes": 13952596,
+      "sha256": "0a6afa090a7c104ef295decea4f4a879c0776cb7f4173fb04ffc46f314558099",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7042.jpg"
+    },
+    {
+      "file": "JOHN7043.jpg",
+      "id": "JOHN7043",
+      "group": "groups",
+      "width": 8353,
+      "height": 5569,
+      "bytes": 32189912,
+      "sha256": "e202e403cd235a7a1870d385d02c37a45753a42644d530c2635a035d721fca9b",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7043.jpg"
+    },
+    {
+      "file": "JOHN7045.jpg",
+      "id": "JOHN7045",
+      "group": "groups",
+      "width": 8591,
+      "height": 5727,
+      "bytes": 29378075,
+      "sha256": "437b22d29ca32560234f4770d27f83e0a1cedfb3812aef197ebc96b5769c2093",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7045.jpg"
+    },
+    {
+      "file": "JOHN7048.jpg",
+      "id": "JOHN7048",
+      "group": "groups",
+      "width": 6763,
+      "height": 5659,
+      "bytes": 26629073,
+      "sha256": "4e75a1a74711ed1a311130bdbd80fd972b137b52ad7d5f52aefe7579f8101f96",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7048.jpg"
+    },
+    {
+      "file": "JOHN7049.jpg",
+      "id": "JOHN7049",
+      "group": "groups",
+      "width": 6343,
+      "height": 5461,
+      "bytes": 17166283,
+      "sha256": "153bb87972122db927e435c46c46c6abbdc88cfe7c4d42f8ecfda7d97176a6a1",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7049.jpg"
+    },
+    {
+      "file": "JOHN7050.jpg",
+      "id": "JOHN7050",
+      "group": "groups",
+      "width": 6704,
+      "height": 5488,
+      "bytes": 21299977,
+      "sha256": "fb3e0ae9305969cfe87b5dcd73f8ed4ca24620b1a934aba95b8cd9aac733b590",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7050.jpg"
+    },
+    {
+      "file": "JOHN7051.jpg",
+      "id": "JOHN7051",
+      "group": "groups",
+      "width": 8346,
+      "height": 5564,
+      "bytes": 22684069,
+      "sha256": "9122badb9eb1b254801c6dc8f4c2e8e5f547a051bf35731d56bacac9dbcf69c5",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7051.jpg"
+    },
+    {
+      "file": "JOHN7052.jpg",
+      "id": "JOHN7052",
+      "group": "groups",
+      "width": 8391,
+      "height": 5594,
+      "bytes": 24642117,
+      "sha256": "52af14af173edde3718b5a356ee49e81b155338d6e947c5e3b47e30a5fa0c5b2",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7052.jpg"
+    },
+    {
+      "file": "JOHN7054.jpg",
+      "id": "JOHN7054",
+      "group": "groups",
+      "width": 7026,
+      "height": 5546,
+      "bytes": 18914423,
+      "sha256": "5d09058f25be4155ccea41af4d3396edce587c4c364f0e1102a9f3106b293799",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7054.jpg"
+    },
+    {
+      "file": "JOHN7057.jpg",
+      "id": "JOHN7057",
+      "group": "groups",
+      "width": 7030,
+      "height": 5168,
+      "bytes": 21285327,
+      "sha256": "f7c24556895b8e8d2bc4ccd7e1861ccfa6ec9adb9625c11284daf6d2fd801c68",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7057.jpg"
+    },
+    {
+      "file": "JOHN7059.jpg",
+      "id": "JOHN7059",
+      "group": "groups",
+      "width": 5766,
+      "height": 5715,
+      "bytes": 23145998,
+      "sha256": "cf72aaf05b665837e55c7ead3bfd1e2a37be4fcb76210bf6237e2419d9ea2c38",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7059.jpg"
+    },
+    {
+      "file": "JOHN7060.jpg",
+      "id": "JOHN7060",
+      "group": "groups",
+      "width": 6211,
+      "height": 5541,
+      "bytes": 18990395,
+      "sha256": "19ac39a7558397030e0bbc075de35b94140fa512bf0f55daeb87292451304f96",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7060.jpg"
+    },
+    {
+      "file": "JOHN7062.jpg",
+      "id": "JOHN7062",
+      "group": "groups",
+      "width": 5914,
+      "height": 5198,
+      "bytes": 21421007,
+      "sha256": "129b817a28834acd39f7127e9312035ffc6e3e48c9bda9b973d9eff227b26c5e",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7062.jpg"
+    },
+    {
+      "file": "JOHN7064.jpg",
+      "id": "JOHN7064",
+      "group": "groups",
+      "width": 5967,
+      "height": 5589,
+      "bytes": 23327504,
+      "sha256": "bfdd6f4e4615b3bf02f8ead6d4a01ab95c6af5f00edf785401d1e835d7e418d6",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7064.jpg"
+    },
+    {
+      "file": "JOHN7066.jpg",
+      "id": "JOHN7066",
+      "group": "groups",
+      "width": 5444,
+      "height": 5579,
+      "bytes": 20018264,
+      "sha256": "e1202b65fd5eeec395c0e40ffe491bfc132d84c4adfe2b7ec57414e94707abc6",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7066.jpg"
+    },
+    {
+      "file": "JOHN7067.jpg",
+      "id": "JOHN7067",
+      "group": "groups",
+      "width": 7878,
+      "height": 5519,
+      "bytes": 26218787,
+      "sha256": "d9773108f712137b42361fe93b0c3a091b14b7e8c1961d143b9d79de791fc7b7",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7067.jpg"
+    },
+    {
+      "file": "JOHN7069.jpg",
+      "id": "JOHN7069",
+      "group": "groups",
+      "width": 6496,
+      "height": 5609,
+      "bytes": 24894415,
+      "sha256": "97e9323334288f32f5162c0cfc9608c669f957307c33fdc8a214436fdd994e8e",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7069.jpg"
+    },
+    {
+      "file": "JOHN7070.jpg",
+      "id": "JOHN7070",
+      "group": "groups",
+      "width": 6393,
+      "height": 5607,
+      "bytes": 26219122,
+      "sha256": "0bdc6a54374420450ed2bf7f9cbef5a72f268d5f57b3a3f07da30e957bada3fc",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7070.jpg"
+    },
+    {
+      "file": "JOHN7072.jpg",
+      "id": "JOHN7072",
+      "group": "groups",
+      "width": 5918,
+      "height": 5763,
+      "bytes": 24002216,
+      "sha256": "a6ed09072a3b7ee0f537a3a2fe4853981fbf57ee266fca128ad9026773f07dea",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7072.jpg"
+    },
+    {
+      "file": "JOHN7073.jpg",
+      "id": "JOHN7073",
+      "group": "groups",
+      "width": 8068,
+      "height": 5379,
+      "bytes": 25699008,
+      "sha256": "615f5dc51d94551dfa055efac84134320e691b6b1ba680ca7a46c3ae414dc99d",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7073.jpg"
+    },
+    {
+      "file": "JOHN7077.jpg",
+      "id": "JOHN7077",
+      "group": "audience",
+      "width": 5848,
+      "height": 3703,
+      "bytes": 14405207,
+      "sha256": "036e10d34594b89600fecbfc5e75d80d5c4b1700599c889d60791bddb4b2cf46",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7077.jpg"
+    },
+    {
+      "file": "JOHN7078.jpg",
+      "id": "JOHN7078",
+      "group": "audience",
+      "width": 7707,
+      "height": 3669,
+      "bytes": 17590024,
+      "sha256": "a7a2824c66da50e5b3c6d4198e0318dccaedda2fec3b55aa50e57f5d63bf67f8",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7078.jpg"
+    },
+    {
+      "file": "JOHN7079.jpg",
+      "id": "JOHN7079",
+      "group": "audience",
+      "width": 8251,
+      "height": 2723,
+      "bytes": 13342975,
+      "sha256": "83dac5f4ef9a7409b2b99de608cf26eeae13a0d3dffd81ceb9392dd042e689bf",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7079.jpg"
+    },
+    {
+      "file": "JOHN7080.jpg",
+      "id": "JOHN7080",
+      "group": "audience",
+      "width": 7129,
+      "height": 2738,
+      "bytes": 13056779,
+      "sha256": "70e01814c910259558d7626f381b1641c3da755a5a558763514de463fbf5d499",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7080.jpg"
+    },
+    {
+      "file": "JOHN7082.jpg",
+      "id": "JOHN7082",
+      "group": "audience",
+      "width": 7997,
+      "height": 2863,
+      "bytes": 15168843,
+      "sha256": "d000f704788bb44495866af3172fc6b87163e0e8e04f9976965a9bbfa37473ac",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7082.jpg"
+    },
+    {
+      "file": "JOHN7083.jpg",
+      "id": "JOHN7083",
+      "group": "audience",
+      "width": 8196,
+      "height": 2688,
+      "bytes": 13146636,
+      "sha256": "7eebe56936af3c0549dbb6414e4b269a3c32a295a83d090240ac45899891aed2",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7083.jpg"
+    },
+    {
+      "file": "JOHN7084.jpg",
+      "id": "JOHN7084",
+      "group": "audience",
+      "width": 8363,
+      "height": 3638,
+      "bytes": 20374174,
+      "sha256": "6166e8c47bfffeb012efaead46f6b1e52ff031506130062e0fa3615fe4be7596",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7084.jpg"
+    },
+    {
+      "file": "JOHN7085.jpg",
+      "id": "JOHN7085",
+      "group": "audience",
+      "width": 8491,
+      "height": 4136,
+      "bytes": 22283597,
+      "sha256": "994b88fb014d8ec7845b620f2d3cdb1c597250da7c54855f8c0f71488535de2e",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7085.jpg"
+    },
+    {
+      "file": "JOHN7086.jpg",
+      "id": "JOHN7086",
+      "group": "presentation",
+      "width": 4402,
+      "height": 3071,
+      "bytes": 15492920,
+      "sha256": "e021d39ce62b8205173af3bf907bdd8c32bd7e3637d8cf16671ea0dca78e1ccd",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7086.jpg"
+    },
+    {
+      "file": "JOHN7088.jpg",
+      "id": "JOHN7088",
+      "group": "presentation",
+      "width": 5304,
+      "height": 3588,
+      "bytes": 21896361,
+      "sha256": "3ee780bd0dd5f341afa44ff6b77be1c574ab7e482db5bab8eca0d83f775c2433",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7088.jpg"
+    },
+    {
+      "file": "JOHN7091.jpg",
+      "id": "JOHN7091",
+      "group": "presentation",
+      "width": 5706,
+      "height": 3887,
+      "bytes": 30394697,
+      "sha256": "154a85c47c072092648c524c6984448a1378dd9e744362e5536ff2832c856d8f",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7091.jpg"
+    },
+    {
+      "file": "JOHN7093.jpg",
+      "id": "JOHN7093",
+      "group": "presentation",
+      "width": 5425,
+      "height": 3872,
+      "bytes": 22377004,
+      "sha256": "9810ccb5b97fb57d0b42e09664b0cf62d460ce853b281551335bcadda2c57e73",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7093.jpg"
+    },
+    {
+      "file": "JOHN7096.jpg",
+      "id": "JOHN7096",
+      "group": "presentation",
+      "width": 5570,
+      "height": 4117,
+      "bytes": 18295930,
+      "sha256": "b5e6722ca7dfe5962dd9a298bbe793cd0c496e9694a400243e958261d8c50e4a",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7096.jpg"
+    },
+    {
+      "file": "JOHN7097.jpg",
+      "id": "JOHN7097",
+      "group": "presentation",
+      "width": 5232,
+      "height": 4250,
+      "bytes": 19180607,
+      "sha256": "623dd2037d5b0214a0d6f9b61ddaf90f96061a1b6094e79171f2b381f78a43b8",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7097.jpg"
+    },
+    {
+      "file": "JOHN7098.jpg",
+      "id": "JOHN7098",
+      "group": "presentation",
+      "width": 5501,
+      "height": 3964,
+      "bytes": 20293879,
+      "sha256": "02ae0c9120d4da9bf144b39b96db7bbaf19bb83265579454231de2461b36368e",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7098.jpg"
+    },
+    {
+      "file": "JOHN7100.jpg",
+      "id": "JOHN7100",
+      "group": "presentation",
+      "width": 5407,
+      "height": 3747,
+      "bytes": 20579870,
+      "sha256": "3680e704f360c750f59778227abe6e1336d6403696920ba5ed0f75b44c739daf",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7100.jpg"
+    },
+    {
+      "file": "JOHN7101.jpg",
+      "id": "JOHN7101",
+      "group": "presentation",
+      "width": 5604,
+      "height": 3683,
+      "bytes": 26888187,
+      "sha256": "c71830bdf219b7cf0930b6bede63ceee3173ed77eda9b402e8d0a10aa97b626c",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7101.jpg"
+    },
+    {
+      "file": "JOHN7102.jpg",
+      "id": "JOHN7102",
+      "group": "presentation",
+      "width": 5316,
+      "height": 3762,
+      "bytes": 21860851,
+      "sha256": "bd726ca14ba480cbb95e97ff4d7e53b36d5ad7e90aa76617bafc93a9cc8a16b9",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7102.jpg"
+    },
+    {
+      "file": "JOHN7105.jpg",
+      "id": "JOHN7105",
+      "group": "presentation",
+      "width": 5612,
+      "height": 3999,
+      "bytes": 15404597,
+      "sha256": "6c0cd0a6d7ebd5cb363cece1d0aa6d2356d69cebe6531661114a6b6d53dd0e95",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7105.jpg"
+    },
+    {
+      "file": "JOHN7106.jpg",
+      "id": "JOHN7106",
+      "group": "presentation",
+      "width": 5395,
+      "height": 3771,
+      "bytes": 28271725,
+      "sha256": "2245eaef71f2279b219f16a60865b000e3e8522bfb93fb30080249f5c2e8dbaa",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7106.jpg"
+    },
+    {
+      "file": "JOHN7107.jpg",
+      "id": "JOHN7107",
+      "group": "presentation",
+      "width": 5456,
+      "height": 3900,
+      "bytes": 22202303,
+      "sha256": "a48ec7939740c3fd44e86fed9e43ba1521e5f281ef003b26a40adc143dd0aaad",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7107.jpg"
+    },
+    {
+      "file": "JOHN7108.jpg",
+      "id": "JOHN7108",
+      "group": "presentation",
+      "width": 5579,
+      "height": 4020,
+      "bytes": 21526485,
+      "sha256": "03a15f9e34d74d33b179f28fda9de871e3ee0620e1d2dcb01f60305e4a0154c8",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7108.jpg"
+    },
+    {
+      "file": "JOHN7109.jpg",
+      "id": "JOHN7109",
+      "group": "presentation",
+      "width": 5509,
+      "height": 3991,
+      "bytes": 22395743,
+      "sha256": "6dacb3dd9ea665297f020af21e180f475be1f36d3fffaf073c130ed233543ec2",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7109.jpg"
+    },
+    {
+      "file": "JOHN7110.jpg",
+      "id": "JOHN7110",
+      "group": "presentation",
+      "width": 5336,
+      "height": 3890,
+      "bytes": 19319046,
+      "sha256": "66d82f0698182d98e6e611f7d1898a14217458d057a69e4cc3d5d5cd2265b1ea",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7110.jpg"
+    },
+    {
+      "file": "JOHN7111.jpg",
+      "id": "JOHN7111",
+      "group": "presentation",
+      "width": 5318,
+      "height": 3826,
+      "bytes": 23868185,
+      "sha256": "87f28c926d976b5252cf638f0aeb5bda1ba9d84b1d18c886351eeb39e0e8f1c2",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7111.jpg"
+    },
+    {
+      "file": "JOHN7112.jpg",
+      "id": "JOHN7112",
+      "group": "presentation",
+      "width": 5486,
+      "height": 3918,
+      "bytes": 18042688,
+      "sha256": "1aed4a15ebf31d2d04d4f2c26887477d0eee320acb3a6cf6ed183a287ece2d99",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7112.jpg"
+    },
+    {
+      "file": "JOHN7113.jpg",
+      "id": "JOHN7113",
+      "group": "presentation",
+      "width": 5067,
+      "height": 3572,
+      "bytes": 14711312,
+      "sha256": "d2d3203dacc3c5448008e292f73664615322550d1f8218a899cb3b0e7b3ce046",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7113.jpg"
+    },
+    {
+      "file": "JOHN7115.jpg",
+      "id": "JOHN7115",
+      "group": "presentation",
+      "width": 5364,
+      "height": 3937,
+      "bytes": 19839352,
+      "sha256": "6b0bd431b5b8400c0ef61c4ae9a98bf28d455a0affc0ac7e03c46976430990b1",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7115.jpg"
+    },
+    {
+      "file": "JOHN7116.jpg",
+      "id": "JOHN7116",
+      "group": "presentation",
+      "width": 5411,
+      "height": 3904,
+      "bytes": 23662108,
+      "sha256": "d967b516d2eb78aa4d47ad6a82c4a9fdd28b0cb0b76dd9fc71e21bc4e0c14536",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7116.jpg"
+    },
+    {
+      "file": "JOHN7117.jpg",
+      "id": "JOHN7117",
+      "group": "presentation",
+      "width": 8329,
+      "height": 5553,
+      "bytes": 42219298,
+      "sha256": "766ed1cc87df455fe99c617a5007401aa34444bef5aca690b4814a80035f7ac5",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7117.jpg"
+    },
+    {
+      "file": "JOHN7118.jpg",
+      "id": "JOHN7118",
+      "group": "presentation",
+      "width": 5389,
+      "height": 3874,
+      "bytes": 23421397,
+      "sha256": "1313b2661a3339dd518419bcf4fd7ceec50d520af95f8be78df6083efe775a70",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7118.jpg"
+    },
+    {
+      "file": "JOHN7120.jpg",
+      "id": "JOHN7120",
+      "group": "advisors",
+      "width": 6068,
+      "height": 5185,
+      "bytes": 21718246,
+      "sha256": "5d6a6d3aa4fac1b97e52697bef8148affb0beb10e85ed046bf7dc048ee795879",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7120.jpg"
+    },
+    {
+      "file": "JOHN7124.jpg",
+      "id": "JOHN7124",
+      "group": "launch",
+      "width": 7074,
+      "height": 4498,
+      "bytes": 25776823,
+      "sha256": "92007c1a14f28cfcac31cc623a741d40c1abfa2c6fdb7f8e643f5ca6030a4d7e",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7124.jpg"
+    },
+    {
+      "file": "JOHN7126.jpg",
+      "id": "JOHN7126",
+      "group": "launch",
+      "width": 7659,
+      "height": 1784,
+      "bytes": 11273910,
+      "sha256": "96b6136b727fc47338d8a08afb2677ff00730ea915ba90a85700edb9db2d11a1",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7126.jpg"
+    },
+    {
+      "file": "JOHN7128.jpg",
+      "id": "JOHN7128",
+      "group": "launch",
+      "width": 5428,
+      "height": 4544,
+      "bytes": 17307462,
+      "sha256": "c91c1c7025ddad61fe1d2af673a9e1fb70892148066b42ada1b12a88bf1a3476",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7128.jpg"
+    },
+    {
+      "file": "JOHN7129.jpg",
+      "id": "JOHN7129",
+      "group": "launch",
+      "width": 6108,
+      "height": 3299,
+      "bytes": 17341641,
+      "sha256": "78507596da8687e235bf769aced8a778b052f3a94a5bd4d4128d26c7c39a5361",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7129.jpg"
+    },
+    {
+      "file": "JOHN7131.jpg",
+      "id": "JOHN7131",
+      "group": "launch",
+      "width": 7843,
+      "height": 3764,
+      "bytes": 24187722,
+      "sha256": "a9a027c141b0df8c4cbbdba6c0d55eeef2052a95494a622602335ecae4e5d433",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7131.jpg"
+    },
+    {
+      "file": "JOHN7133.jpg",
+      "id": "JOHN7133",
+      "group": "launch",
+      "width": 8286,
+      "height": 3686,
+      "bytes": 19670152,
+      "sha256": "db348e28537253f7e1b1e1f2799272113ddce0f0c3e9e3b9801956e7379c0f58",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7133.jpg"
+    },
+    {
+      "file": "JOHN7134.jpg",
+      "id": "JOHN7134",
+      "group": "launch",
+      "width": 7523,
+      "height": 3566,
+      "bytes": 18464157,
+      "sha256": "d6935ce528b956e738db72766c6be906cb241e6a378cceb9366faa5f2b12773b",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7134.jpg"
+    },
+    {
+      "file": "JOHN7142.jpg",
+      "id": "JOHN7142",
+      "group": "talks",
+      "width": 7510,
+      "height": 4908,
+      "bytes": 21526847,
+      "sha256": "03e06fe5776ca98fe4eace34587ac9060b30ba009b7b0bf6bd258c2958378eb6",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7142.jpg"
+    },
+    {
+      "file": "JOHN7149.jpg",
+      "id": "JOHN7149",
+      "group": "talks",
+      "width": 7695,
+      "height": 5056,
+      "bytes": 21186303,
+      "sha256": "f1e36da31add146c7ca359da0df77e986ba9903b0a43ba4f530ee85bf233e576",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7149.jpg"
+    },
+    {
+      "file": "JOHN7157.jpg",
+      "id": "JOHN7157",
+      "group": "talks",
+      "width": 7776,
+      "height": 4878,
+      "bytes": 18329908,
+      "sha256": "f23e622bfdb78d9c77522cc7e99b2c52263b83c0597dab43e8924b35763c7fd5",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7157.jpg"
+    },
+    {
+      "file": "JOHN7162.jpg",
+      "id": "JOHN7162",
+      "group": "talks",
+      "width": 8400,
+      "height": 3037,
+      "bytes": 16170218,
+      "sha256": "bc1897dd53c0daffc11c91f77fe14d120bbded1c9658d7cf7b9a7ec100dad64f",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7162.jpg"
+    },
+    {
+      "file": "JOHN7165.jpg",
+      "id": "JOHN7165",
+      "group": "talks",
+      "width": 8376,
+      "height": 5230,
+      "bytes": 26111476,
+      "sha256": "237351f11694406b9ca6d7ad1a9c702d04341a08dcb96e5cd9a71d9e3788b4e8",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7165.jpg"
+    },
+    {
+      "file": "JOHN7166.jpg",
+      "id": "JOHN7166",
+      "group": "talks",
+      "width": 8109,
+      "height": 5406,
+      "bytes": 25826682,
+      "sha256": "0c81ee2cb669abf259a92df876e4f8ea4024b2667400a5247580c525e9a7a030",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7166.jpg"
+    },
+    {
+      "file": "JOHN7172.jpg",
+      "id": "JOHN7172",
+      "group": "talks",
+      "width": 8310,
+      "height": 4059,
+      "bytes": 21334613,
+      "sha256": "79a363ba85dce226415e472cfae655b3e5e423c9d4d083f2b756c6a48c55dc1b",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7172.jpg"
+    },
+    {
+      "file": "JOHN7177.jpg",
+      "id": "JOHN7177",
+      "group": "talks",
+      "width": 8491,
+      "height": 5660,
+      "bytes": 27354089,
+      "sha256": "74c4a1f376c62c747a8410baff382690d4efe37978d740bd8d39c8facd6d8b4c",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7177.jpg"
+    },
+    {
+      "file": "JOHN7179.jpg",
+      "id": "JOHN7179",
+      "group": "talks",
+      "width": 8161,
+      "height": 5441,
+      "bytes": 27484656,
+      "sha256": "f135bd0767eaec7d88b7df71c0f6d4d61115d652edbeec57dbda45de7f18496c",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7179.jpg"
+    },
+    {
+      "file": "JOHN7182.jpg",
+      "id": "JOHN7182",
+      "group": "talks",
+      "width": 8111,
+      "height": 4362,
+      "bytes": 17094738,
+      "sha256": "78a3aeb90c9cf1b4ac9ed12860a0719acccfec1757118868804b98ee4b70236b",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7182.jpg"
+    },
+    {
+      "file": "JOHN7187.jpg",
+      "id": "JOHN7187",
+      "group": "advisors",
+      "width": 5705,
+      "height": 4390,
+      "bytes": 17964688,
+      "sha256": "0647d40ea94c84824a8e52b8aa4a0befb76f8429157798a2409146525ec606e6",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7187.jpg"
+    },
+    {
+      "file": "JOHN7189.jpg",
+      "id": "JOHN7189",
+      "group": "advisors",
+      "width": 8323,
+      "height": 4666,
+      "bytes": 24487379,
+      "sha256": "929b9ffaac651c2ff28d82e3fcfeb5a131cc653cd7108e763362f43a24348259",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7189.jpg"
+    },
+    {
+      "file": "JOHN7193.jpg",
+      "id": "JOHN7193",
+      "group": "advisors",
+      "width": 8078,
+      "height": 4940,
+      "bytes": 25316498,
+      "sha256": "e4813257f3ea22d40d8270190a55aa0e0539cb190948f43d351f86c25be643e9",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7193.jpg"
+    },
+    {
+      "file": "JOHN7194.jpg",
+      "id": "JOHN7194",
+      "group": "advisors",
+      "width": 8204,
+      "height": 4711,
+      "bytes": 25378898,
+      "sha256": "197b02db4c8702581c9eb22bf1ea03cdd3b97726c4d6cc18e7a4e9c7469f771b",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7194.jpg"
+    },
+    {
+      "file": "JOHN7196.jpg",
+      "id": "JOHN7196",
+      "group": "advisors",
+      "width": 5798,
+      "height": 3812,
+      "bytes": 15166731,
+      "sha256": "dafd620b9c552cf0ca68834912182ac7585b121e6cdad181efa8e27ac1cdf547",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7196.jpg"
+    },
+    {
+      "file": "JOHN7198.jpg",
+      "id": "JOHN7198",
+      "group": "full",
+      "width": 8199,
+      "height": 5466,
+      "bytes": 29587708,
+      "sha256": "cc8aa1f6c82ea6fd746cdded9aa240c8d1db7f1bde7f912c12f6911230d9f528",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7198.jpg"
+    },
+    {
+      "file": "JOHN7199.jpg",
+      "id": "JOHN7199",
+      "group": "full",
+      "width": 6891,
+      "height": 3450,
+      "bytes": 17596707,
+      "sha256": "9a1328134845cc46dbe8abf28b8073abf150cec714eb39d9246b97d2f942f524",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7199.jpg"
+    },
+    {
+      "file": "JOHN7201.jpg",
+      "id": "JOHN7201",
+      "group": "full",
+      "width": 7578,
+      "height": 3416,
+      "bytes": 18638707,
+      "sha256": "8b8dbe55210ba2d16ef2acdffa83634d5ac8240c737cb8e1384f60f99938e9fc",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7201.jpg"
+    },
+    {
+      "file": "JOHN7203.jpg",
+      "id": "JOHN7203",
+      "group": "full",
+      "width": 8587,
+      "height": 4174,
+      "bytes": 23331137,
+      "sha256": "0e0968e4202ae5ebe8d68c7b72f58625a850c7d99ae62d22949c11487d2d937c",
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7203.jpg"
+    }
+  ],
+  "originalBase": "originals/",
+  "zips": {
+    "groups": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/SEED-groups-originals.zip",
+    "advisors": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/SEED-advisors-originals.zip",
+    "launch": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/SEED-launch-originals.zip",
+    "full": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/SEED-full-originals.zip"
+  }
+}
