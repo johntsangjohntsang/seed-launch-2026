@@ -1,0 +1,9 @@
+《啟航・同行》／ SEED — A Shared Beginning
+為青年創業 Hackathon 及 SEED 啟動禮回顧片重新創作的器樂配樂。
+60秒；80 BPM；D大調；20小節。
+AI輔助設計樂譜及編曲，以鋼琴、弦樂、大提琴、圓號、豎琴、定音鼓及長笛的樂器音色合成演奏，並作動態與空間混音。並非真人樂團錄音。
+這次沒有沿用上一版四段配樂混剪。可編輯樂譜：seed-original-score.mid。
+音樂最高峰：45–51秒；對應JOHN7134.jpg全場亮燈拉橫額畫面（44.5–51秒）。
+音色：GeneralUser GS 2.0.3，S. Christian Collins；合成器：TinySoundFont。
+音色來源與授權：https://github.com/mrbumpy409/GeneralUser-GS/blob/main/documentation/LICENSE.txt
+音色庫只在本機用作合成，沒有在網站重新分發。
