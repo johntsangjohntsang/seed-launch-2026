@@ -1226,7 +1226,11 @@ window.SEED_ARCHIVE={
       "height": 3566,
       "bytes": 18464157,
       "sha256": "d6935ce528b956e738db72766c6be906cb241e6a378cceb9366faa5f2b12773b",
-      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7134.jpg"
+      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7134.jpg",
+      "collections": [
+        "full"
+      ],
+      "downloadLabel": "光影心形啟動相片下載"
     },
     {
       "file": "JOHN7142.jpg",
@@ -1379,16 +1383,6 @@ window.SEED_ARCHIVE={
       "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7196.jpg"
     },
     {
-      "file": "JOHN7198.jpg",
-      "id": "JOHN7198",
-      "group": "full",
-      "width": 8199,
-      "height": 5466,
-      "bytes": 29587708,
-      "sha256": "cc8aa1f6c82ea6fd746cdded9aa240c8d1db7f1bde7f912c12f6911230d9f528",
-      "original": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/JOHN7198.jpg"
-    },
-    {
       "file": "JOHN7199.jpg",
       "id": "JOHN7199",
       "group": "full",
@@ -1424,6 +1418,12 @@ window.SEED_ARCHIVE={
     "groups": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/SEED-groups-originals.zip",
     "advisors": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/SEED-advisors-originals.zip",
     "launch": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/SEED-launch-originals.zip",
-    "full": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/SEED-full-originals.zip"
-  }
+    "full": "https://github.com/johntsangjohntsang/photographic-world/releases/download/seed-launch-2026-11-04/SEED-full-originals-20261106.zip"
+  },
+  "fullOrder": [
+    "JOHN7199",
+    "JOHN7201",
+    "JOHN7203",
+    "JOHN7134"
+  ]
 };
