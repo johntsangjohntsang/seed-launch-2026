@@ -7,7 +7,18 @@ function render(){visible=filtered();const shown=visible.slice(page*limit,(page+
 function openPhoto(i){current=(i+visible.length)%visible.length;const p=visible[current];$('#full-photo').src=`photos/${p.id}.webp`;$('#full-photo').alt=`${archive.groups.find(g=>g.id===p.group).title} · ${p.file}`;$('#photo-caption').textContent=`${p.file} · ${current+1} / ${visible.length} · ${p.width} × ${p.height}`;$('#download').href=original(p);$('#download').download=p.file;$('#download').textContent=p.downloadLabel||'下載原圖 ↓';if(!dialog.open){dialog.showModal();document.body.classList.add('modal-open')}}
 $('#close').onclick=()=>dialog.close();dialog.addEventListener('close',()=>document.body.classList.remove('modal-open'));$('#prev').onclick=()=>openPhoto(current-1);$('#next').onclick=()=>openPhoto(current+1);document.addEventListener('keydown',e=>{if(!dialog.open)return;if(e.key==='ArrowLeft')openPhoto(current-1);if(e.key==='ArrowRight')openPhoto(current+1)});$('#page-prev').onclick=()=>{page--;render()};$('#more').onclick=()=>{page++;render()};$('#search').addEventListener('input',()=>{page=0;render()});
 Promise.resolve(window.SEED_ARCHIVE).then(data=>{if(!data)throw Error('load');archive=data;$('#photo-total').textContent=data.photos.length;for(const g of [{id:'all',title:'全部相片'},...data.groups]){const b=document.createElement('button');b.textContent=g.title;b.dataset.group=g.id;b.onclick=()=>{selected=g.id;page=0;render()};$('#filters').append(b)}render()}).catch(()=>{$('#result-count').textContent='相簿未能載入，請重新整理頁面。'});
-Promise.resolve(window.SEED_GUESTS||[]).then(blocks=>{for(const block of blocks){const section=document.createElement('div');section.className='guest-block';const title=document.createElement('h3');title.textContent=block.title;const names=document.createElement('div');names.className='guest-list';for(const name of block.names){const span=document.createElement('span');span.textContent=name;names.append(span)}section.append(title,names);$('#guest-names').append(section)}}).catch(()=>{});
+const guestRoster=window.SEED_GUESTS;
+if(guestRoster?.groups){
+ const container=$('#guest-names');
+ const note=document.createElement('p');note.className='guest-note';note.textContent=guestRoster.note;container.append(note);
+ for(const [index,group] of guestRoster.groups.entries()){
+  const section=document.createElement('details');section.className='guest-group';section.id=group.id;section.open=index===0;
+  const heading=document.createElement('summary');const title=document.createElement('span');title.textContent=group.title;const count=document.createElement('small');count.textContent=group.people.length+' 項';heading.append(title,count);
+  const list=document.createElement('ul');list.className='guest-records';
+  for(const person of group.people){const item=document.createElement('li');const name=document.createElement('h3');name.textContent=person.name;item.append(name);if(person.role){const role=document.createElement('p');role.textContent=person.role;item.append(role)}list.append(item)}
+  section.append(heading,list);container.append(section);
+ }
+}
 
 // Keep the two films from playing audio over each other.
 document.querySelectorAll("video").forEach(video=>video.addEventListener("play",()=>{document.querySelectorAll("video").forEach(other=>{if(other!==video)other.pause()})}));
